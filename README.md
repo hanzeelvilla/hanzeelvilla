@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/opvm3FXT2qYus/giphy.gif?cid=82a1493b26ej98ij3rlnxq2auymrelynwigfow5e5um4waip&ep=v1_stickers_trending&rid=giphy.gif&ct=s" width="150"/> Hello there 👻
+# <img src="https://i.giphy.com/opvm3FXT2qYus.webp" width="150"/> Hello there 👻
 
 ![My banner](hanzeel-banner.png)
 
