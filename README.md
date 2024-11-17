@@ -1,6 +1,7 @@
 # <img src="https://i.giphy.com/opvm3FXT2qYus.webp" width="150"/> Hello there 👻
 
 ![My banner](hanzeel-banner.png)
+<a href="https://opgc.me/#/users/hanzeelvilla" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/hanzeelvilla/tag/?theme=basic"/></a>
 
 ## TECH ☝️🤓
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
