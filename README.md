@@ -8,7 +8,7 @@ I’m in my last year of my software engineering degree, specializing in back-en
 
 <img align="right" width="250px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpeDdkZjBqZXJ4OTJwajFvN2R5d3c1emN5bXpzbmdsbTV0NmhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXPw3suOkxrBC/giphy.gif" style="margin-left: 20px;" />
 
-## Interest
+## Interests
 - IoT 🤖
 - Videogames 🕹️
 - Music 🥁
