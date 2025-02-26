@@ -1,6 +1,7 @@
+![My banner](banner_hanzeel.png)
+
 # <img src="https://i.giphy.com/opvm3FXT2qYus.webp" width="150"/> Hello there 👻
 
-![My banner](banner_hanzeel.png)
 
 ## About me
 
