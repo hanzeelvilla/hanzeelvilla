@@ -2,19 +2,11 @@
 
 ![My banner](banner_hanzeel.png)
 
-<table>
-  <tr>
-    <td style="padding-right: 20px;">
-      <h2>About me</h2>
-      <p>I’m in my last year of my software engineering degree, specializing in back-end development with <span style="font-weight: bold;">Express.js</span> and <span style="font-weight: bold;">Django</span>. I have experience working with <span style="font-weight: bold;">WebSockets</span>, <span style="font-weight: bold;">MongoDB</span>, and <span style="font-weight: bold;">MySQL</span>, building real-time and data-driven applications. Currently, I’m learning <span style="font-weight: bold;">React.js</span> to expand my full-stack development skills. I’m always eager to learn new technologies and take on new challenges. Let’s connect! 😎</p>
-    </td>
-    <td>
-      <img width="250px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpeDdkZjBqZXJ4OTJwajFvN2R5d3c1emN5bXpzbmdsbTV0NmhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXPw3suOkxrBC/giphy.gif" />
-    </td>
-  </tr>
-</table>
+## About me
 
+I’m in my last year of my software engineering degree, specializing in back-end development with **Express.js** and **Django**. I have experience working with **WebSockets**, **MongoDB**, and **MySQL**, building real-time and data-driven applications. Currently, I’m learning **React.js** to expand my full-stack development skills. I’m always eager to learn new technologies and take on new challenges. Let’s connect! 😎
 
+<img align="right" width="250px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpeDdkZjBqZXJ4OTJwajFvN2R5d3c1emN5bXpzbmdsbTV0NmhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXPw3suOkxrBC/giphy.gif" style="margin-left: 20px;" />
 
 ## Interest
 - IoT 🤖
