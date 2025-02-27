@@ -2,7 +2,6 @@
 
 # <img src="https://i.giphy.com/opvm3FXT2qYus.webp" width="150"/> Hello there 👻
 
-
 ## About me
 
 I’m in my last year of my software engineering degree, specializing in back-end development with **Express.js** and **Django**. I have experience working with **WebSockets**, **MongoDB**, and **MySQL**, building real-time and data-driven applications. Currently, I’m learning **React.js** to expand my full-stack development skills. I’m always eager to learn new technologies and take on new challenges. Let’s connect! 😎
@@ -31,7 +30,8 @@ I’m in my last year of my software engineering degree, specializing in back-en
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 </p>
                     
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzeelvilla&layout=compact)
+<p>(I don't do Kotlin, it was just homework XD)</p>
 
 ## Get in touch
 <p align="left"> <a href="https://www.linkedin.com/in/hanzeelvilla" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
