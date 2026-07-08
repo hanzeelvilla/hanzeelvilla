@@ -4,7 +4,7 @@
 
 ## About me
 
-Full-Stack Engineer just finishing collage and a part time intership. I use **React** with **TypeScript** and **Express.js/NestJS** to create complete web apps ready to use since day 0. I also use tools like **Git/GitHub**, **Docker**, **Cloudflare**, **Vercel** and **Claude Code** to complement my skills and be able to ships my projects to production
+Hi! I'm a **Software Engineer** focused on **Fullstack development**, using **TypeScript** and the **MERN stack** to build scalable applications. Beyond code, I'm an **IoT** and **3D design** enthusiast who loves bridging the gap between hardware, software, and physical modeling. Always building at the intersection of the digital and physical worlds.
 
 <img align="right" width="250px" alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpeDdkZjBqZXJ4OTJwajFvN2R5d3c1emN5bXpzbmdsbTV0NmhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXPw3suOkxrBC/giphy.gif" style="margin-left: 20px;" />
 
@@ -15,7 +15,7 @@ Full-Stack Engineer just finishing collage and a part time intership. I use **Re
 - Sports 🥊
 
 ## TECH ☝️🤓
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,express,nest,mysql,postgres,mongo,postman,github,docker,vercel,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,react,next,express,nest,mysql,postgres,mongo,github,docker,azure,cloudflare,vercel)](https://skillicons.dev)
                     
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hanzeelvilla&hide=kotlin)
 
